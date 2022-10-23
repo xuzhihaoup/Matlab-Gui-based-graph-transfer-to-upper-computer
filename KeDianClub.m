@@ -2,6 +2,7 @@
 % 开发时间：2022年4月
 % 说明：禁止商用，欢迎大家魔改。
 %       在此感谢张君豪学长以及卢冠阳对本次开发提供的帮助和建议
+%开源地址：https://github.com/xuzhihaoup/Matlab-Gui-based-graph-transfer-to-upper-computer
 function varargout = KeDianClub(varargin)
 % KeDianClub MATLAB code for KeDianClub.fig 
 %      KeDianClub, by itself, creates a new KeDianClub or raises the existing
